@@ -1,0 +1,42 @@
+# Portafolio de José Rikelme Hernández
+
+Bienvenido a mi portafolio técnico. Soy estudiante de Ingeniería en Sistemas y Computación con formación como Técnico en Electrónica. 
+Este repositorio recopila proyectos académicos en los que he participado recientemente, aplicando conocimientos técnicos en desarrollo web, 
+backend, pruebas funcionales y validación de interfaces. Algunos proyectos son privados, por lo que aquí presento una descripción técnica y mi aporte en cada un
+
+# Proyectos Académicos Destacados
+
+Sistema de Gestión de Proyectos Académicos  
+Repositorio privado 
+Rol: Colaborador  
+Tecnologías utilizadas: ASP.NET (C#), Entity Framework, SQL Server, HTML5, CSS3, Bootstrap, JavaScript  
+Tipo de proyecto: Académico  
+Aportes principales:
+- Apoyo en el diseño de la interfaz de usuario
+- Pruebas funcionales del sistema (formulario de gestión, registros, validaciones)
+- Revisión del cumplimiento de requisitos definidos en el documento del sistema
+- Aseguramiento de calidad en los módulos clave antes de entregas académicas
+
+Aplicación para Notificación de Voluntariados UTEC – "SocialTrack"
+Repositorio privado
+Rol: Colaborador  
+Tecnologías utilizadas:
+- Frontend móvil (Android): Kotlin, Retrofit, MVVM, Firebase Cloud Messaging (FCM)  
+- Backend: Spring Boot (Java 17), MySQL, Spring Security, JWT, Hibernate, JPA  
+- Notificaciones: Firebase Admin SDK  
+- Backoffice: Spring Boot REST API  
+Tipo de proyecto: Académico  
+Aportes principales:
+- Validación de formularios en la aplicación móvil y el backoffice
+- Pruebas de interfaz y consistencia en la experiencia del usuario
+- Revisión detallada del cumplimiento de funcionalidades técnicas planteadas en el diseño del sistema
+- Apoyo en documentación y en la organización del flujo de desarrollo para entregas exitosas
+
+#Habilidades Técnicas Aplicadas
+
+- Desarrollo y pruebas en entornos ASP.NET con C#
+- Validación funcional de aplicaciones móviles Android (Kotlin + REST API)
+- Uso de bases de datos relacionales: SQL Server y MySQL
+- Diseño y pruebas de interfaces web con HTML5, CSS3, Bootstrap y JavaScript
+- Pruebas de QA y aseguramiento de calidad académica
+- Conocimiento en arquitectura MVVM y autenticación con JWT
